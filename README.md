@@ -9,10 +9,11 @@ I present some of my skills 🐍
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-3.10-orange?style=flat-square&logo=python)
-![Python](https://img.shields.io/badge/Flask-2.2.x-orange?style=flat-square&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-2.2.x-orange?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.91.0-orange?style=flat-square&logo=FastAPI)
 ![Flet](https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/app_icon_16.png)
 ![Flet](https://img.shields.io/badge/Flet-0.4.0-orange)
+![SQLite](https://img.shields.io/badge/SQLite-3.38.1-orange?style=flat-square&logo=sqlite)
 
 
 ### Tools
@@ -25,4 +26,4 @@ I present some of my skills 🐍
 
 ### Learning
 [![Kivy](https://img.shields.io/badge/Kivy-2.1.0-orange?style=flat-square&logo=kivy)](https://kivy.org/)
-[![Kivy](https://img.shields.io/badge/PyScript-v0.22.1-orange?style=flat-square&logo=pyscript)](https://pyscript.net/)
+[![PyScript](https://img.shields.io/badge/PyScript-v0.22.1-orange?style=flat-square&logo=pyscript)](https://pyscript.net/)
